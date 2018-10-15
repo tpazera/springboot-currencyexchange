@@ -1,0 +1,16 @@
+.btn {
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.col-6 {
+    text-align: center;
+}
+h1 {
+    margin: 15px;
+}
+.list {
+    max-height: 400px;
+    overflow-y: scroll;
+}
