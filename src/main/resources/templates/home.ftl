@@ -25,7 +25,8 @@
     <div class="row">
         <div class="col-sm">
             <div id="errorMessage" style="dispaly:none;" class="alert alert-danger" role="alert">
-                Proszę podać prawidłowe dane!
+
+                Proszę podać prawidłowe dane! (Wartość ${RequestParameters.fromRadio!""} jest niepoprawna)
             </div>
         </div>
     </div>
